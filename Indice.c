@@ -43,7 +43,6 @@ int crearIndice(t_indice * ind) {
         return SIN_MEM;
     ind->capacidad = TAM_INICIAL;
     ind->cantReg = 0;
-    ind->vInd[0].dni = 999999999;
 
     return TODO_BIEN;
 }
