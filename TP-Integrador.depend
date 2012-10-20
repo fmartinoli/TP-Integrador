@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1347325660 source:c:\documents and settings\lab3\escritorio\tp-integrador\indice.c
+	"indice.h"
+	<stdio.h>
+	<stdlib.h>
+
+1347325660 c:\documents and settings\lab3\escritorio\tp-integrador\indice.h
+
+1347326058 source:c:\documents and settings\lab4.unlmlab\escritorio\tp-integrador\menu.c
+	"Menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1347326058 c:\documents and settings\lab4.unlmlab\escritorio\tp-integrador\menu.h
+
+1349400145 source:c:\documents and settings\lab4.unlmlab\escritorio\tp-integrador\utilitarios.c
+	<stdlib.h>
+	<stdio.h>
+	"Utilitarios.h"
+
+1349400192 c:\documents and settings\lab4.unlmlab\escritorio\tp-integrador\utilitarios.h
+
+1349400193 source:c:\documents and settings\lab4.unlmlab\escritorio\tp-integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Indice.h"
+	"Menu.h"
+
+1349399320 c:\documents and settings\lab4.unlmlab\escritorio\tp-integrador\indice.h
+
+1347326060 source:d:\estudios\fer\universidad\dropbox\public\tp integrador\tp-integrador\menu.c
+	"Menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1347326060 d:\estudios\fer\universidad\dropbox\public\tp integrador\tp-integrador\menu.h
+
+1350752790 source:d:\estudios\fer\universidad\dropbox\public\tp integrador\tp-integrador\utilitarios.c
+	<stdlib.h>
+	<stdio.h>
+	"Utilitarios.h"
+
+1350752796 d:\estudios\fer\universidad\dropbox\public\tp integrador\tp-integrador\utilitarios.h
+
+1350761616 source:d:\estudios\fer\universidad\dropbox\public\tp integrador\tp-integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Indice.h"
+	"Menu.h"
+	"Utilitarios.h"
+
+1350761274 d:\estudios\fer\universidad\dropbox\public\tp integrador\tp-integrador\indice.h
+
+1350761270 source:d:\estudios\fer\universidad\dropbox\public\tp integrador\tp-integrador\indice.c
+	"indice.h"
+	<stdio.h>
+	<stdlib.h>
+	"Log.h"
+
+1350756553 source:d:\estudios\fer\universidad\dropbox\public\tp integrador\tp-integrador\log.c
+	<stdio.h>
+	<stdarg.h>
+	"Log.h"
+
+1350756251 d:\estudios\fer\universidad\dropbox\public\tp integrador\tp-integrador\log.h
+

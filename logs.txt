@@ -1,0 +1,3744 @@
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 0
+
+El vector quedo asi
+35169931 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+35169931 	
+33180805 	
+El valor 32466127 lo inserte en la posicion 1
+
+El vector quedo asi
+35169931 	
+32466127 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+35169931 	
+32466127 	
+33180805 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+33180805 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+33180805 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+33180805 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+33180805 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+33180805 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 0
+
+El vector quedo asi
+35169931 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+35169931 	
+33180805 	
+El valor 32466127 lo inserte en la posicion 1
+
+El vector quedo asi
+35169931 	
+32466127 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+35169931 	
+32466127 	
+33180805 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+33180805 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+33180805 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+33180805 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+33180805 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+33180805 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372581 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 0
+
+El vector quedo asi
+35169931 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+35169931 	
+33180805 	
+El valor 32466127 lo inserte en la posicion 1
+
+El vector quedo asi
+35169931 	
+32466127 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+35169931 	
+32466127 	
+33180805 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+33180805 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+33180805 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+33180805 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+33180805 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+33180805 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+35169931 	
+32466127 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 1
+
+El vector quedo asi
+3487152 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+3487152 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+3487152 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+3487152 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+3487152 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+3487152 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+3487152 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+3487152 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+3487152 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+3487152 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+3487152 	
+34372580 	
+34372582 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+3487152 	
+34372580 	
+34372582 	
+34372581 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+3487152 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+3487152 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+3487152 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+3487152 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+3487152 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372581 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372582 	
+34372583 	
+34372581 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 33180805
+El vector estaba asi
+El valor 33180805 lo inserte en la posicion 0
+
+El vector quedo asi
+33180805 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 35169931
+El vector estaba asi
+33180805 	
+El valor 35169931 lo inserte en la posicion 1
+
+El vector quedo asi
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 32466127
+El vector estaba asi
+33180805 	
+35169931 	
+El valor 32466127 lo inserte en la posicion 0
+
+El vector quedo asi
+32466127 	
+33180805 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372580
+El vector estaba asi
+32466127 	
+33180805 	
+35169931 	
+El valor 34372580 lo inserte en la posicion 2
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372581
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+35169931 	
+El valor 34372581 lo inserte en la posicion 3
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372582
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+35169931 	
+El valor 34372582 lo inserte en la posicion 4
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372583
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+35169931 	
+El valor 34372583 lo inserte en la posicion 5
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372584
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+35169931 	
+El valor 34372584 lo inserte en la posicion 6
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+=================== FIN CORRIDA ===========================
+=================== INICIO CORRIDA ===========================
+Tengo que insertar el valor 34372585
+El vector estaba asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+35169931 	
+El valor 34372585 lo inserte en la posicion 7
+
+El vector quedo asi
+32466127 	
+33180805 	
+34372580 	
+34372581 	
+34372582 	
+34372583 	
+34372584 	
+34372585 	
+35169931 	
+=================== FIN CORRIDA ===========================
